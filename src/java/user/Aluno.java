@@ -43,10 +43,10 @@ public class Aluno extends Usuario{
     }
 
     public String getLattes() {
-        return cvlattes;
+        return cvlatte;
     }
 
-    public void setLattes(String cvlattes) {
-        this.cvlattes = cvlattes;
+    public void setLattes(String cvlatte) {
+        this.cvlatte = cvlatte;
     }    
 }
